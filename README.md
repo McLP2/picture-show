@@ -1,7 +1,9 @@
 # picture-show
 Click and play tool to displays images and videos on a screen or projector.
-Videos are played via [MPlayerControl](https://wiki.lazarus.freepascal.org/TMPlayerControl)
+Videos are played via [MPlayerControl](https://wiki.lazarus.freepascal.org/TMPlayerControl). Make sure, you have MPlayer installed in a folder called mplayer next to the executable.
+
 ![screenshot](screenshot.png)
+
 Intendet to be used in situations where a simple way to show images on demand is needed.
 
 ## Usage
