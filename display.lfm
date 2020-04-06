@@ -1,0 +1,47 @@
+object Form2: TForm2
+  Left = 609
+  Height = 240
+  Top = 179
+  Width = 320
+  Caption = 'Display'
+  ClientHeight = 240
+  ClientWidth = 320
+  Color = clBlack
+  OnCreate = FormCreate
+  OnKeyDown = FormKeyDown
+  LCLVersion = '1.6.4.0'
+  object Image1: TImage
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 320
+    AntialiasingMode = amOn
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Center = True
+    Proportional = True
+    Stretch = True
+    Transparent = True
+  end
+  object MPlayerControl1: TMPlayerControl
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 320
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    Loop = 0
+    Volume = 100
+    OnStop = MPlayerControl1Stop
+  end
+end

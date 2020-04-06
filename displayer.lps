@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Release"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="displayer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="44" Y="19"/>
+        <UsageCount Value="28"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="selection.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="115"/>
+        <CursorPos X="61" Y="128"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="display.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="14" Y="8"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="53" Y="63"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="163"/>
+        <CursorPos X="23" Y="173"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2202"/>
+        <CursorPos Y="2212"/>
+        <UsageCount Value="12"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\dishow\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="104"/>
+        <CursorPos X="26" Y="111"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="530"/>
+        <CursorPos X="14" Y="538"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1018"/>
+        <CursorPos X="9" Y="1028"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="selection.pas"/>
+        <Caret Line="109" TopLine="106"/>
+      </Position1>
+      <Position2>
+        <Filename Value="selection.pas"/>
+        <Caret Line="110" TopLine="106"/>
+      </Position2>
+      <Position3>
+        <Filename Value="selection.pas"/>
+        <Caret Line="111" TopLine="106"/>
+      </Position3>
+      <Position4>
+        <Filename Value="selection.pas"/>
+        <Caret Line="112" TopLine="106"/>
+      </Position4>
+      <Position5>
+        <Filename Value="selection.pas"/>
+        <Caret Line="113" TopLine="106"/>
+      </Position5>
+      <Position6>
+        <Filename Value="selection.pas"/>
+        <Caret Line="114" TopLine="106"/>
+      </Position6>
+      <Position7>
+        <Filename Value="selection.pas"/>
+        <Caret Line="115" TopLine="106"/>
+      </Position7>
+      <Position8>
+        <Filename Value="selection.pas"/>
+        <Caret Line="116" TopLine="106"/>
+      </Position8>
+      <Position9>
+        <Filename Value="selection.pas"/>
+        <Caret Line="117" TopLine="106"/>
+      </Position9>
+      <Position10>
+        <Filename Value="selection.pas"/>
+        <Caret Line="118" TopLine="106"/>
+      </Position10>
+      <Position11>
+        <Filename Value="selection.pas"/>
+        <Caret Line="119" TopLine="106"/>
+      </Position11>
+      <Position12>
+        <Filename Value="selection.pas"/>
+        <Caret Line="99" TopLine="91"/>
+      </Position12>
+      <Position13>
+        <Filename Value="selection.pas"/>
+        <Caret Line="109" TopLine="101"/>
+      </Position13>
+      <Position14>
+        <Filename Value="selection.pas"/>
+        <Caret Line="110" TopLine="101"/>
+      </Position14>
+      <Position15>
+        <Filename Value="selection.pas"/>
+        <Caret Line="111" TopLine="101"/>
+      </Position15>
+      <Position16>
+        <Filename Value="selection.pas"/>
+        <Caret Line="112" TopLine="101"/>
+      </Position16>
+      <Position17>
+        <Filename Value="selection.pas"/>
+        <Caret Line="113" TopLine="101"/>
+      </Position17>
+      <Position18>
+        <Filename Value="selection.pas"/>
+        <Caret Line="114" TopLine="101"/>
+      </Position18>
+      <Position19>
+        <Filename Value="selection.pas"/>
+        <Caret Line="115" TopLine="102"/>
+      </Position19>
+      <Position20>
+        <Filename Value="selection.pas"/>
+        <Caret Line="116" TopLine="103"/>
+      </Position20>
+      <Position21>
+        <Filename Value="selection.pas"/>
+        <Caret Line="117" TopLine="104"/>
+      </Position21>
+      <Position22>
+        <Filename Value="selection.pas"/>
+        <Caret Line="118" TopLine="105"/>
+      </Position22>
+      <Position23>
+        <Filename Value="selection.pas"/>
+        <Caret Line="119" TopLine="106"/>
+      </Position23>
+      <Position24>
+        <Filename Value="selection.pas"/>
+        <Caret Line="117" Column="46" TopLine="108"/>
+      </Position24>
+      <Position25>
+        <Filename Value="selection.pas"/>
+        <Caret Line="120" Column="19" TopLine="110"/>
+      </Position25>
+      <Position26>
+        <Filename Value="display.pas"/>
+        <Caret Line="20" Column="55" TopLine="10"/>
+      </Position26>
+      <Position27>
+        <Filename Value="display.pas"/>
+        <Caret Line="54" Column="35" TopLine="38"/>
+      </Position27>
+      <Position28>
+        <Filename Value="display.pas"/>
+        <Caret Line="20" Column="82" TopLine="18"/>
+      </Position28>
+      <Position29>
+        <Filename Value="selection.pas"/>
+        <Caret Line="110" Column="29" TopLine="99"/>
+      </Position29>
+      <Position30>
+        <Filename Value="selection.pas"/>
+        <Caret Line="111" Column="44" TopLine="99"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
